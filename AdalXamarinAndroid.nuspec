@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package>
+  <metadata>
+    <id>
+       AdalXamarinAndroid
+    </id>
+    <version>
+       0.0.0.1
+    </version>
+    <authors>
+       Graeme Christie
+    </authors>
+    <description>
+      Xamarin Android Bindings for the Azure Active Directory Library for Android.
+    </description>
+    <projectUrl>
+      https://github.com/Readify/AdalXamarinAndroid
+    </projectUrl>
+    <licenseUrl>
+      https://raw.githubusercontent.com/Readify/AdalXamarinAndroid/master/LICENSE.txt
+    </licenseUrl>
+    <tags>
+       Azure ActiveDirectory Android Xamarin
+    </tags>
+    <language>
+       en-US
+    </language>
+  </metadata>
+  <files>
+     <file src="AdalXamarinAndroid\bin\Release\AdalXamarinAndroid.dll" target="lib\MonoAndroid\AdalXamarinAndroid.dll" />
+  </files>
+</package>

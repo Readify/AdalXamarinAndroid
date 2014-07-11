@@ -6,7 +6,7 @@ Unlike the original example, this repository contains a full ready to go Xamarin
 
 ### Azure Active Directory Client for Android
 
-This Solution includes latest dev build of the [Azure Active Directory Client for Android](https://github.com/MSOpenTech/azure-activedirectory-library-for-android), as of 11/7/2014.
+This solution includes latest dev build of the [Azure Active Directory Client for Android](https://github.com/MSOpenTech/azure-activedirectory-library-for-android), as of 11/7/2014.
 
 ### Nuget
 
