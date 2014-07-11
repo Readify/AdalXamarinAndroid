@@ -5,13 +5,16 @@
        AdalXamarinAndroid
     </id>
     <version>
-       0.0.0.1
+       0.0.0.2
     </version>
     <authors>
        Graeme Christie
     </authors>
+    <title>
+        ADAL for Xamarin Android
+    </title>
     <description>
-      Xamarin Android Bindings for the Azure Active Directory Library for Android.
+      Xamarin Android Bindings for the Azure Active Directory Library.
     </description>
     <projectUrl>
       https://github.com/Readify/AdalXamarinAndroid
