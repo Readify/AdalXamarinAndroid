@@ -1,8 +1,8 @@
-#Windows Azure Active Directory Bindings for Android for Xamarin
+#Windows Azure Active Directory Bindings for Xamarin Android
 
 This is an implementation of the Windows Azure Active Directory Example Bindings for Android for Xamarin found [here](https://github.com/AzureADSamples/NativeClient-Xamarin-Android)
 
-Unlike the original example, this repository contain a full compiling Xamarin solution.
+Unlike the original example, this repository contains a full ready to go Xamarin solution.
 
 ### Azure Active Directory Client for Android
 
@@ -10,8 +10,8 @@ This Solution includes latest dev build of the [Azure Active Directory Client fo
 
 ### Nuget
 
-The solution also contains the relevant Nuget artefacts to deploy it to Nuget. The latest deployed version of this client can be found in Nuget here.
+The solution is maintained as a package in Nuget. The latest version of this client can be found in Nuget here.
 
-## License
+### License
 
 Licensed under the Apache License, Version 2.0 (the "License");
