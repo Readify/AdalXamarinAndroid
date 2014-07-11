@@ -10,7 +10,7 @@ This solution includes latest dev build of the [Azure Active Directory Client fo
 
 ### Nuget
 
-The solution is maintained as a package in Nuget. The latest version of this client can be found in Nuget here.
+The solution is maintained as a package in Nuget. The latest version of this client can be found [at nuget.org](https://www.nuget.org/packages/AdalXamarinAndroid/).
 
 ### License
 

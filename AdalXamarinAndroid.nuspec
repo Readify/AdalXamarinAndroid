@@ -20,13 +20,13 @@
       https://raw.githubusercontent.com/Readify/AdalXamarinAndroid/master/LICENSE.txt
     </licenseUrl>
     <tags>
-       Azure ActiveDirectory Android Xamarin
+        Active Directory Authentication Library ADAL Directory Windows Azure AD AAD Identity Android Xamarin
     </tags>
     <language>
        en-US
     </language>
   </metadata>
   <files>
-     <file src="AdalXamarinAndroid\bin\Release\AdalXamarinAndroid.dll" target="lib\MonoAndroid\AdalXamarinAndroid.dll" />
+     <file src="AdalXamarinAndroid/bin/Release/AdalXamarinAndroid.dll" target="lib/MonoAndroid/AdalXamarinAndroid.dll" />
   </files>
 </package>
